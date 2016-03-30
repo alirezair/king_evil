@@ -247,7 +247,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {142910418,177168187,173345972},--Sudo users
+    sudo_users = {1192865999},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -256,10 +256,7 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/dany-sj/EVIL_BOT
 
 Our team!
-danyal (@Xx_shah_zaq_eshqam_hosien_xX)
-abbas (@Iiborn)
-mahdi (@anonymous1221 )
-ali (@VAMPAYER10 )
+
 
 ]],
     help_text_realm = [[
